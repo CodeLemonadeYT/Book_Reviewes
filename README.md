@@ -1,4 +1,4 @@
 # Book_Reviewes
 
-#A
-#AA
+I'll be adding new book reviewes in the interval i <= 30 days.
+
